@@ -6,6 +6,8 @@ React js Projects
 
 # - Github card app - [View Code](https://codesandbox.io/s/github-card-app-wj3uo?file=/src/App.js:1962-1971)
 
+# - The Star Match Game - [View Code](https://codesandbox.io/s/the-star-match-game-ehn5p?file=/src/App.js)
+
 
 
 
