@@ -8,6 +8,9 @@ React js Projects
 
 # - The Star Match Game - [View Code](https://codesandbox.io/s/the-star-match-game-ehn5p?file=/src/App.js)
 
+# - Unsplash search photos - [View Code](https://github.com/mohamedsadiq/unsplash-search-photos-react)
 
+# - Expense Tracker App - [View Code](https://github.com/mohamedsadiq/expense-tracker-app)
 
+# - Weather game app - [View Code](https://github.com/mohamedsadiq/weather-game-react)
 
